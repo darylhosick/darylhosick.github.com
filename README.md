@@ -1,4 +1,2 @@
-darylhosick.github.com
-======================
+# Daryl Hosick
 
-Website for daryl hosick.
