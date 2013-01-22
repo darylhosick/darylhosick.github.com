@@ -28,13 +28,13 @@ tagline: Programming Without Coding
     <div class="span4">
       <h2>TRADITIONAL DRAWING SKILLS</h2>
       <p>Traditional drawing instruction emphasizes transferring "what you see", proportions and shapes, onto your canvas.</p>
-      <p><a class="btn" href="#">View details &raquo;</a></p>
+      <p><a class="btn" href="/traditional.html">View details &raquo;</a></p>
     </div>
     <div class="span4">
       <h2>OTHER DRAWING SKILLS</h2>
       <p>Understanding "why things look the way they do".<br>
       Learning to "see" the clues.</p>
-      <p><a class="btn" href="#">View details &raquo;</a></p>
+      <p><a class="btn" href="/otherskills.html">View details &raquo;</a></p>
    </div>
     <div class="span4">
       <h2>THREE STEPS</h2>
@@ -43,7 +43,7 @@ tagline: Programming Without Coding
       Identify Clues<br>
       Make your drawing<br>
       </p>
-      <p><a class="btn" href="#">View details &raquo;</a></p>
+      <p><a class="btn" href="/threesteps.html">View details &raquo;</a></p>
     </div>
   </div>
 </div>
