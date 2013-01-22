@@ -16,7 +16,7 @@ html, body {
 }
 
 .modal {
-	width: 920px;
+  width: 920px;
   margin-left: -460px; /* - width/2 */	
 }
 
@@ -49,7 +49,7 @@ h6 {
 	text-align: center;
 	font-style: italic;
 	font-size: 1em;
-	margin-top: -20px; /* want to pull lable closer to image/source code */
+	margin-top: -10px; /* want to pull lable closer to image/source code */
 	margin-bottom: 30px;
 }
 
@@ -58,12 +58,31 @@ h6 {
 	padding-top: .2em;
 	padding-bottom: .2em;
 	font-size: 2.0em;
+	line-height: 1.2em;
 	font-weight: 300;
 	font-style: italic;
 	margin-left: 3em;
 	margin-right: 3em;
 }
 
+.span4 p {
+	text-align: left;
+	font-size: 1.4em;
+	line-height: 1.4em;
+	height: 120px;
+}
+
+.span4 h2 {
+	height: 80px;
+}
+
+.span4 a {
+	text-align: left;
+}
+
+.span4 li {
+  text-align: left;
+}
 .hero-unit h1 {
 	color: black;
 	padding-bottom: .4em;
@@ -124,7 +143,7 @@ body {
 }
 
 .btn-large {
-	font-size: 30px;
+	font-size: 26px;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -245,16 +264,16 @@ body {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
 .featurette {
-  padding-top: 40px; /* Vertically center images part 1: add padding above and below text. */
+  padding-top: 0px; /* Vertically center images part 1: add padding above and below text. */
   overflow: hidden; /* Vertically center images part 2: clear their floats. */
 }
 .featurette-image {
-  margin-top: -40px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+  margin-top: 40px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
 	margin-bottom: 10px;
 }
 
 .featurette-video {
-  margin-top: -40px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+  margin-top: 0px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
 }
 
 
