@@ -18,7 +18,4 @@ tagline:
   <p class="lead"> They use techniques such as holding a pencil at arm length to get the proportions just right or hold the pencil level to estimate angles. Some artists use photos and a grid system to transfer the reference material onto the canvas. Mastering these skills -- transferring proportions and shapes to you drawing -- is essential for all artists.</p>
 </div>
 
-<div class="signup-divider pagination-centered">
-  <a class="btn btn-large btn-primary" href="https://www.amazon.com/Workbookfor-DVD-Natural-Learn-Perspective/dp/1482503557/">Order Your Video and Workbook Now</a>
-</div>
 
