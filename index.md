@@ -23,7 +23,7 @@ tagline: Programming Without Coding
 </div>
 
 <div class="signup-divider pagination-centered">
-  <a class="btn btn-large btn-primary" href="https://www.amazon.com/Workbookfor-DVD-Natural-Learn-Perspective/dp/1482503557/">Order Your Video and Workbook Now</a>
+  <a class="btn btn-large btn-primary" target="_blank" href="https://www.createspace.com/362592">Order Your Video and Workbook Now</a>
 </div>
 
 <div class="container">
