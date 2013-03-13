@@ -69,11 +69,11 @@ h6 {
 	text-align: left;
 	font-size: 1.4em;
 	line-height: 1.4em;
-	height: 120px;
+	height: 110px;
 }
 
 .span4 h2 {
-	height: 80px;
+	height: 120px;
 }
 
 .span4 a {
@@ -328,6 +328,13 @@ body {
 
 @media (max-width: 979px) {
 
+	.span4 p {
+		text-align: left;
+		font-size: 1.4em;
+		line-height: 1.4em;
+		height: 160px;
+	}
+
 	.modal {
 		width: 740px;
 	  margin-left: -370px; /* - width/2 */	
@@ -398,6 +405,16 @@ body {
 
 @media (max-width: 767px) {
 
+	.span4 h2 {
+		height: auto;
+	}
+
+	.span4 p {
+		text-align: left;
+		font-size: 1.4em;
+		line-height: 1.4em;
+		height: auto;
+	}
 
 	.modal {
 		width: 340px;
