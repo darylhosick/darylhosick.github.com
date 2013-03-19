@@ -20,5 +20,6 @@ tagline:
 </div>
 
 <div class="signup-divider pagination-centered">
-  <a class="btn btn-large btn-primary" target="_blank" href="https://www.createspace.com/362592">Order Your Video and Workbook Now</a>
+  <p><a class="btn btn-large btn-primary" target="_blank" href="https://www.createspace.com/362592">Order Your Video Here</a></p>
+  <p><a class="btn btn-large btn-primary" target="_blank" href="https://www.createspace.com/4166234">Order Your Workbook Here</a></p>
 </div>
